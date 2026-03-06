@@ -9,7 +9,31 @@
 
 <img src="custom-gif-header.gif">
 </div>
+<div id="socials-container" align="center">
+  
+[![linkedIn][linkedIn-icon]][linkedIn-url]
+[![telegram][telegram-icon]][telegram-url]
+[![facebook][facebook-icon]][facebook-url]
+[![discord][discord-icon]][discord-url]
+[![instragram][instragram-icon]][instragram-url]
+</div>
+
+
+<!--- Socials URLs --->
+[linkedIn-icon]: LinkedIN.svg
+[linkedIn-url]: https://www.linkedin.com/in/jensel-espada-a5a0602a7
+
+[telegram-icon]: Telegram.svg
+[telegram-url]: https://t.me/jensel_espada
+
+[facebook-icon]: Facebook.svg
+[facebook-url]: https://www.facebook.com/jenseljohn.espada
+
+[discord-icon]: Discord.svg
+[discord-url]: https://discord.com/users/sorry_pre
+
+[instagram-icon]: Instagram.svg
+[instagram-url]: https://www.instagram.com/jensel_espada
 
 
 
-<!--- Shield URLs --->
