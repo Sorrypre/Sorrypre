@@ -61,9 +61,18 @@
 ### 🔨 Developer Tools
 [![ml-and-da](https://skillicons.dev/icons?i=git,github,vscode,idea,linux)](https://skillicons.dev)
 
+## 📈 Github Analytics
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sorrypre&theme=green-nur&border_radius=10.6&mode=weekly)](https://git.io/streak-stats)
+</div>
 
-
-
+## 💚 Quote of the Day
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha
+)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 
 
