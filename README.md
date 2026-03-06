@@ -1,6 +1,9 @@
 <a name="top-anchor"></a>
-<div id="top-container" align="right">
-  <a href="https://github.com/Sorrypre/Sorrypre/graphs/traffic"><img src="https://komarev.com/ghpvc/?username=Sorrypre&color=brightgreen">
+<div id="top-container" align="center">
+  
+  [![stars-users][stars-users-icon]][stars-users-url] &nbsp; &nbsp;
+  ![view-counter][view-counter-icon] &nbsp; &nbsp;
+  [![followers-users][followers-users-icon]][followers-users-url] &nbsp; &nbsp;
   </a>
 </div>
 <div id="name-container" align="center">
@@ -9,6 +12,7 @@
 
 <img src="custom-gif-header.gif">
 </div>
+<br>
 <div id="socials-container" align="center">
   
 [![linkedIn][linkedIn-icon]][linkedIn-url] &nbsp; &nbsp;
@@ -19,7 +23,6 @@
   <img src="Instagram.svg" width="48px" height="48px">
 </a>
 </div>
-
 
 <!--- Socials URLs --->
 [linkedIn-icon]: LinkedIN.svg
@@ -33,6 +36,16 @@
 
 [discord-icon]: Discord.svg
 [discord-url]: https://discord.com/users/sorry_pre
+
+
+[stars-users-icon]: https://img.shields.io/github/stars/Sorrypre?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=006937&color=55a954
+[stars-users-url]: https://github.com/Sorrypre?tab=repositories
+
+[view-counter-icon]: https://komarev.com/ghpvc/?username=Sorrypre&style=for-the-badge&color=green
+
+[followers-users-icon]: https://img.shields.io/github/followers/Sorrypre?style=for-the-badge&logo=searxng&logoColor=white&labelColor=006937&color=55a954
+[followers-users-url]: https://github.com/Sorrypre?tab=followers
+
 
 
 
