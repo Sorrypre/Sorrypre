@@ -14,8 +14,9 @@
 [![linkedIn][linkedIn-icon]][linkedIn-url]
 [![telegram][telegram-icon]][telegram-url]
 [![facebook][facebook-icon]][facebook-url]
-[![discord][discord-icon]][discord-url]
-[![instragram][instragram-icon]][instragram-url]
+[![discord][discord-icon]][discord-url] <a href="https://www.instagram.com/jensel_espada"> 
+  <img src="Instagram.svg" width="48px" height="48px">
+</a>
 </div>
 
 
@@ -32,8 +33,6 @@
 [discord-icon]: Discord.svg
 [discord-url]: https://discord.com/users/sorry_pre
 
-[instagram-icon]: Instagram.svg
-[instagram-url]: https://www.instagram.com/jensel_espada
 
 
 
