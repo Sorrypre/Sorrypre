@@ -13,6 +13,7 @@
 <img src="custom-gif-header.gif">
 </div>
 <br>
+<br>
 <div id="socials-container" align="center">
   
 [![linkedIn][linkedIn-icon]][linkedIn-url] &nbsp; &nbsp;
@@ -45,6 +46,23 @@
 
 [followers-users-icon]: https://img.shields.io/github/followers/Sorrypre?style=for-the-badge&logo=searxng&logoColor=white&labelColor=006937&color=55a954
 [followers-users-url]: https://github.com/Sorrypre?tab=followers
+
+## 🛠 Tech Stack
+### 🖥️ Programming Languages
+[![programming-languages](https://skillicons.dev/icons?i=py,java,c,cpp,js,kotlin,r)](https://skillicons.dev)
+### 📱 Front-End Development
+[![front-end-development](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap)](https://skillicons.dev)
+### ⚙️ Back-End Development
+[![back-end-development](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+### 🌐 Database Development
+[![database-development](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+### 🤖 Machine Learning and Data Analytics
+[![ml-and-da](https://skillicons.dev/icons?i=sklearn,arduino)](https://skillicons.dev)
+### 🔨 Developer Tools
+[![ml-and-da](https://skillicons.dev/icons?i=git,github,vscode,idea,linux)](https://skillicons.dev)
+
+
+
 
 
 
